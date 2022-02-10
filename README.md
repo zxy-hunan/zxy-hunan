@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 
 
-- 💬 Be free to ask me about anything [here](https://github.com/ThinkingThigh/ThinkingThigh/issues).
+- 代码不止，掘金不停 [here](https://juejin.cn/user/2041172695196712).
 <img align="right" height="180" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxy-hunan&show_icons=true&hide_border=true">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxy-hunan&layout=compact">
